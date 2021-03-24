@@ -114,7 +114,7 @@ query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
 requests-toolbelt==0.8.0
-rsa==3.4.2
+rsa==4.1
 rstcheck==3.3.1
 s3transfer==0.2.1
 schedule==0.6.0
