@@ -63,7 +63,7 @@ lazy-object-proxy==1.4.1
 lockfile==0.12.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 mnemonic==0.19
 msgpack==1.0.0
 multidict==4.7.5
